@@ -1,0 +1,6 @@
+{
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.defaultFormatter": "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.ignoreBracketedPasteMode": true
+}
